@@ -1,10 +1,9 @@
 <!-- Büyük GIF en üstte -->
-<p align="center">
-  <img src="
-https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mnd4M3RlcHZleHgxaG5lejZnbGRlajdwMGNxMmtrNHE5ZnVzNGpmZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1J9FtGm9VNUerkRi/giphy.gif
-" alt="QA Tester GIF" width="100%" />
-</p>
-
+<div align="center">
+	<img src="
+https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif
+" width="600" height="300"/>
+</div> 
 ---
 
 # 👋 Hi there! I'm Omer Boncuk
