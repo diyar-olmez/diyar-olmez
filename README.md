@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baris</h1>
 <h2 align="center">Welcome to my GitHub profile! 🎉</h2>
 <div align="center">
-	<img src="
-https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif
+	<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1zeWpxaTdob3czODlsZDJvaXFic2FhamtvYXg5d3FhaGJpMWhlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif
 " width="600" height="300"/>
 </div>
 ---
