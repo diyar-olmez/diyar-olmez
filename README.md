@@ -1,65 +1,20 @@
-<!-- Büyük GIF en üstte -->
-<div align="center">
-	<img src="
-https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif
-" width="600" height="300"/>
-</div> 
----
+# 🚀 Proje Adı
 
-# 👋 Hi there! I'm Omer Boncuk
+![Demo](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-🎯 **QA Tester | SDET in Progress**
+> Kısa bir proje tanımı: Bu proje, modern web uygulamaları için geliştirilmiş, yüksek performanslı ve kullanıcı dostu bir çözümdür.
 
-Welcome to my GitHub! I’m passionate about software quality and always learning new tools and practices in test automation.
+## 🛠️ Kullanılan Teknolojiler
 
----
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-black?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
-## 🚀 About Me
+## 📦 Kurulum
 
-- 🌱 Currently learning: **Java, Selenium, Postman**
-- 🔧 Working on: **Test Automation Projects**
-- 🧠 Exploring: **Maven, Jenkins, Git**
-- 🎯 Goal: **Become a skilled SDET with hands-on project experience**
-
----
-
-## 🛠️ Tools & Technologies
-
-<p align="center">
-  <img src="
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
-" width="50" />
-  <img src="
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg
-" width="50" />
-  <img src="
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
-" width="50" />
-  <img src="
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
-" width="50" />
-</p>
-
----
-
-## 📫 Connect with Me
-
-- 🔗 [LinkedIn](
-https://www.linkedin.com/in/%C3%B6mer-boncuk-673763212/
-)
-- ✉️ 
-boncukomer91@gmail.com
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="
-https://github-readme-stats.vercel.app/api?username=OmerBoncuk&show_icons=true&theme=github_dark&hide=issues&hide_title=true&card_width=400
-" />
-  <img src="
-https://github-readme-stats.vercel.app/api/top-langs/?username=OmerBoncuk&layout=compact&theme=github_dark&card_width=350
-" />
-</div> 
+```bash
+git clone https://github.com/kullaniciadi/proje-adi.git
+cd proje-adi
+npm install
+npm start
