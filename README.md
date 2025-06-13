@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🧑‍💻
 
-<img src="https://raw.githubusercontent.com/BarisSaydam/BarisSaydam/main/assets/hero.gif" alt="coding-gif" width="600"/>
+![Demo](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
